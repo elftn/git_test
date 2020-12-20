@@ -1,0 +1,56 @@
+ul{
+
+    list-style-type: none;
+}
+li{
+
+    display: inline-block;
+}
+
+a:link{
+
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: underline;
+}
+
+.box{
+    border-width:  1px ;
+    border-color: rgb(66, 133, 244);
+    border-radius: 5%;
+    display: block;
+    font-weight: bold;
+    background-color: rgb(67, 135, 253);
+    color: white;
+    padding: 5px 10px 3px 10px;
+    ;
+}
+
+a{
+
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding: 10px;
+}
+.logo{
+    
+    display:block;
+    margin: 0 auto;
+    padding-top: 108px ;
+    
+}
+
+.searchbar{
+    display:block;
+    margin: 0 auto;
+    padding-top: 20px ;
+    width: 484px;
+    height: 46px;
+    border-radius: 22px;
+
+}
